@@ -2,7 +2,7 @@
 
 I am Bhavana (buhv-nuh)
 
-I'm pursuing a Master's in Data Science with competence in analytical & problem-solving skills, seeking Full Time opportunities. I have over 5 years of productive professional experience in collaborative projects, wherein I achieved benchmarks like a 30% cost reduction through ads outreach and expanse data analysis. Additionally, advanced the tech community growth via blogging, speaking & training with a reputation of 20K & 9 million reads.
+I'm pursuing a Master's in Data Science with competence in analytical & problem-solving skills, seeking Internship opportunities. I have over 3 years of productive professional experience in collaborative projects, wherein I achieved benchmarks like a 30% cost reduction through ads outreach and expanse data analysis.
 
 🔭 I’m currently working on - Python, R, Machine Learning, Tableau, SQL, Salesforce
 
